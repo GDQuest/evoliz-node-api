@@ -1,0 +1,13 @@
+node_modules
+src/*.mts
+src/_for_trying
+lib/cjs/_for_trying
+lib/esm/_for_trying
+try.mjs
+tsconfig.*
+.gitignore
+.git
+.env
+.env.template
+db.json
+.vscode
